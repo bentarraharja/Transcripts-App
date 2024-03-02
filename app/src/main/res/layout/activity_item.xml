@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:layout_editor_absoluteX="351dp"
+    tools:layout_editor_absoluteY="1dp">
+
+    <TextView
+        android:id="@+id/tv_nama"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="@string/tv_nama" />
+
+    <TextView
+        android:id="@+id/tv_tanggal"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="@string/tv_tanggal" />
+
+    <TextView
+        android:id="@+id/tv_tempat"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="@string/tv_tempat" />
+
+    <TextView
+        android:id="@+id/tv_no"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="@string/tv_no" />
+
+    <TextView
+        android:id="@+id/tv_email"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:hint="@string/tv_email" />
+
+    <Button
+        android:id="@+id/tv_edit"
+        android:layout_width="104dp"
+        android:layout_height="wrap_content"
+        android:text="EDIT"
+        app:backgroundTint="#0800FA" />
+
+</LinearLayout>

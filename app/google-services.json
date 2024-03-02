@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836511050429",
+    "firebase_url": "https://uas-firebase-7066a-default-rtdb.firebaseio.com",
+    "project_id": "uas-firebase-7066a",
+    "storage_bucket": "uas-firebase-7066a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836511050429:android:c89979b5361e397deda5d4",
+        "android_client_info": {
+          "package_name": "com.example.uas_197064516002_muhammadmahivabentarraharja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836511050429-qo3c3btt08v1oq979aa7s0k8ufhos7ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPP89GZlUT4fKrSNDOmHaHvmOhLCef7Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836511050429-qo3c3btt08v1oq979aa7s0k8ufhos7ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
